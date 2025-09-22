@@ -1,0 +1,5 @@
+{
+  "name": "Extractor de Facturas XML con IA",
+  "description": "Una aplicación web que utiliza un LLM para extraer información relevante de facturas en formato XML y la exporta a un archivo CSV compatible con Excel.",
+  "requestFramePermissions": []
+}
